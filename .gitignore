@@ -1,0 +1,13 @@
+# Temporales de Office
+~$*.xlsx
+~$*.docx
+~$*.pptx
+*.tmp
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+# Editores
+.vscode/
+.idea/
+*.swp
