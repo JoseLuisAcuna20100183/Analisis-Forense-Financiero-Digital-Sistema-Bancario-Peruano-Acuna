@@ -10,15 +10,12 @@
 
 <p align="center">
   <b>
-  📄 <a href="#">Paper en vivo</a> ·
-  📊 <a href="#">Dashboard</a> ·
-  🖥️ <a href="#">FIBS (app)</a> ·
+  📄 <a href="https://htmlpreview.github.io/?https://github.com/JoseLuisAcuna20100183/Analisis-Forense-Financiero-Digital-Sistema-Bancario-Peruano-Acuna/blob/main/paper/Analisis_forense_financiero_digital_Sistema_Bancario_Peruano.html">Paper en vivo</a> ·
+  📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiNzEwZDczMjctODdjNC00NzYyLWEzZTgtNWUxYWI3MzgzMGVmIiwidCI6Ijc1MDRlMzE4LThlMWUtNGQ1NS1iZmZkLTg3NWI0ZGVlODI2MCIsImMiOjR9&pageName=052e735fae12a0a7e0a8">Dashboard interactivo</a> ·
+  🖥️ <a href="https://fibs-studio.ai.studio/">FIBS (app en vivo)</a> ·
   📑 <a href="presentacion/">Deck</a>
   </b>
 </p>
-
-> **Nota:** reemplaza los enlaces de arriba por las URLs reales cuando las tengas
-> (GitHub Pages para el paper, Power BI Service para el dashboard, Vercel para FIBS).
 
 ---
 
@@ -55,9 +52,9 @@ Detalle completo en [`metodologia/metodologia-forense.md`](metodologia/metodolog
 
 | Entregable | Descripción | Ubicación |
 |---|---|---|
-| **📄 Paper técnico** | Informe forense completo con diseño institucional, 4 ejes analíticos, preguntas forenses y conclusiones de primer orden. | [`paper/`](paper/) |
-| **📊 Dashboard Power BI** | 5 páginas interactivas: Tamaño, Estructura, Concentración, Dinámica Competitiva y Asimetría Regulatoria. | [`dashboard/`](dashboard/) |
-| **🖥️ FIBS** | *Forensics Intelligence Banking System* — herramienta de simulación y stress-testing forense. | [Repositorio FIBS →](#) |
+| **📄 Paper técnico** | Informe forense completo con diseño institucional, 4 ejes analíticos, preguntas forenses y conclusiones de primer orden. [Leer en vivo](https://htmlpreview.github.io/?https://github.com/JoseLuisAcuna20100183/Analisis-Forense-Financiero-Digital-Sistema-Bancario-Peruano-Acuna/blob/main/paper/Analisis_forense_financiero_digital_Sistema_Bancario_Peruano.html). | [`paper/`](paper/) |
+| **📊 Dashboard Power BI** | 5 páginas interactivas: Tamaño, Estructura, Concentración, Dinámica Competitiva y Asimetría Regulatoria. [Ver en vivo](https://app.powerbi.com/view?r=eyJrIjoiNzEwZDczMjctODdjNC00NzYyLWEzZTgtNWUxYWI3MzgzMGVmIiwidCI6Ijc1MDRlMzE4LThlMWUtNGQ1NS1iZmZkLTg3NWI0ZGVlODI2MCIsImMiOjR9&pageName=052e735fae12a0a7e0a8). | [`dashboard/`](dashboard/) |
+| **🖥️ FIBS** | *Forensics Intelligence Banking System* — herramienta de simulación y stress-testing forense. [App en vivo](https://fibs-studio.ai.studio/). | [Repositorio FIBS →](https://github.com/JoseLuisAcuna20100183/FIBS-Forensics-Intelligence-Banking-System-Acuna) |
 | **📑 Deck de exposición** | Versión LinkedIn (13 slides) y versión concurso (6 slides). | [`presentacion/`](presentacion/) |
 
 ---
@@ -93,7 +90,7 @@ Este es un trabajo de investigación académica desarrollado bajo el marco de **
 ## Autoría
 
 **Jose Luis** — *IISE, Data Analytics & Financial Forensics*
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/jose-luis-acuna) · [GitHub](https://github.com/JoseLuisAcuna20100183)
 
 ## Licencia
 
