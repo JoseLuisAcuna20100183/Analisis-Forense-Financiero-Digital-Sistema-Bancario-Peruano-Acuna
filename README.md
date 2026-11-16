@@ -36,7 +36,7 @@ El análisis se organiza en cuatro ejes —**Tamaño, Estructura de Mercado, Con
 - **Crecimiento orgánico no desconcentra.** Tras remover el ciclo artificial de Reactiva, la relación entre crecimiento y desconcentración es débil (**R² genuino ≈ 0.15–0.25**), evidencia de que el sistema no se desconcentra por dinámica propia.
 - **Subsistema dolarizado paralelo.** Se identifica un bloque de banca dolarizada de nicho (ICBC, Bank of China, BCI Perú) con comportamiento diferenciado del resto del sistema.
 
-> Las capturas del dashboard que ilustran cada hallazgo están en [`dashboard/capturas/`](dashboard/capturas/).
+> El dashboard que documenta cada hallazgo está disponible en vivo (Power BI) y como PDF en [`dashboard/`](dashboard/).
 
 ---
 

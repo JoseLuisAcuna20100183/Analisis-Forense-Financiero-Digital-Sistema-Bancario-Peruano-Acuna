@@ -10,15 +10,12 @@ Dashboard interactivo de 5 páginas que visualiza los hallazgos forenses del pro
 4. **Dinámica Competitiva** — Waterfall de transferencia de cuotas: quién ganó y quién perdió con Reactiva Perú (Interbank principal beneficiario, Scotiabank principal cedente).
 5. **Asimetría Regulatoria** — Diferencial de encaje BCRP en dólares vs. soles y su impacto sobre la concentración del TOSE ME.
 
-## Capturas
+## Acceso al dashboard
 
-Las imágenes de cada página están en [`capturas/`](capturas/).
+| Recurso | Enlace |
+|---|---|
+| **Dashboard interactivo (en vivo)** | [Abrir en Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNzEwZDczMjctODdjNC00NzYyLWEzZTgtNWUxYWI3MzgzMGVmIiwidCI6Ijc1MDRlMzE4LThlMWUtNGQ1NS1iZmZkLTg3NWI0ZGVlODI2MCIsImMiOjR9&pageName=052e735fae12a0a7e0a8) |
+| **Versión estática (PDF)** | [`Dashboard_proyecto.pdf`](Dashboard_proyecto.pdf) — las 5 páginas en un solo documento |
+| **Archivo del dashboard** | [Descarga en Google Drive](https://drive.google.com/file/d/1HDYE0uetWNZk_pMckm0MlpV-TjZWNPxX/view?usp=sharing) |
 
-## Archivo .pbix
-
-> **Sobre el peso:** GitHub no maneja bien archivos grandes. Si el `.pbix` supera ~50 MB,
-> súbelo por enlace de descarga (Google Drive) en lugar de committearlo, y descoméntalo
-> en el `.gitignore` del repo. El dashboard interactivo en vivo se sirve desde **Power BI Service**.
-
-- Descarga del archivo del dashboard: [Google Drive](https://drive.google.com/file/d/1HDYE0uetWNZk_pMckm0MlpV-TjZWNPxX/view?usp=sharing)
-- Dashboard en vivo (Power BI Service): [Abrir dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiNzEwZDczMjctODdjNC00NzYyLWEzZTgtNWUxYWI3MzgzMGVmIiwidCI6Ijc1MDRlMzE4LThlMWUtNGQ1NS1iZmZkLTg3NWI0ZGVlODI2MCIsImMiOjR9&pageName=052e735fae12a0a7e0a8)
+El dashboard interactivo se sirve desde Power BI Service; el PDF de esta carpeta reproduce las cinco páginas para consulta rápida sin necesidad de abrir Power BI.
