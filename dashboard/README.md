@@ -20,5 +20,5 @@ Las imágenes de cada página están en [`capturas/`](capturas/).
 > súbelo por enlace de descarga (Google Drive) en lugar de committearlo, y descoméntalo
 > en el `.gitignore` del repo. El dashboard interactivo en vivo se sirve desde **Power BI Service**.
 
-- Descarga del archivo `.pbix`: _(enlace aquí)_
-- Dashboard en vivo (Power BI Service): _(enlace aquí)_
+- Descarga del archivo del dashboard: [Google Drive](https://drive.google.com/file/d/1HDYE0uetWNZk_pMckm0MlpV-TjZWNPxX/view?usp=sharing)
+- Dashboard en vivo (Power BI Service): [Abrir dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiNzEwZDczMjctODdjNC00NzYyLWEzZTgtNWUxYWI3MzgzMGVmIiwidCI6Ijc1MDRlMzE4LThlMWUtNGQ1NS1iZmZkLTg3NWI0ZGVlODI2MCIsImMiOjR9&pageName=052e735fae12a0a7e0a8)

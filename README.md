@@ -89,7 +89,7 @@ Este es un trabajo de investigación académica desarrollado bajo el marco de **
 
 ## Autoría
 
-**Jose Luis** — *IISE, Data Analytics & Financial Forensics*
+**José Luis Acuña León** — *IISE, Data Analytics & Financial Forensics*
 [LinkedIn](https://www.linkedin.com/in/jose-luis-acuna) · [GitHub](https://github.com/JoseLuisAcuna20100183)
 
 ## Licencia
