@@ -1,5 +1,5 @@
 <h1 align="center">Análisis Forense Financiero Digital del Sistema Bancario Peruano</h1>
-<p align="center"><i>Huellas en el Balance · 2018–2025</i></p>
+<p align="center"><i>2018–2025</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tipo-Investigaci%C3%B3n%20Forense%20Financiera-1a2b4a">
